@@ -1,4 +1,4 @@
-# DAY1_SWINGS_CASESTUDY_OPERATORS
+# DAY1_SWINGS_CASESTUDY_CONTROL_STRUCTURES
 Project description:
   This is a raliway ticket reservation project with two basic forms.
   These forms are created using JFrame component in java.
